@@ -7,10 +7,13 @@ This is proof of concept design to improve the development of email sending appl
 
 # Systemconfig
 User: dummy
+
 Password: dummy
+
 Host-IP: 192.168.33.51
 
 IMAP-Port: 143
+
 SMTP-Port: 25
 
 IMAP-Login: dummy
