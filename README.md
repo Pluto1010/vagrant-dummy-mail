@@ -14,6 +14,7 @@ IMAP-Port: 143
 SMTP-Port: 25
 
 IMAP-Login: dummy
+
 IMAP-Password: dummy
 
 All mails sent over localhost:25 will be redirected to "dummy@dummy.dev".
